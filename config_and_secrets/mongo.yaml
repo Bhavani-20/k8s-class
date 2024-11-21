@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mongodbdurga-deployment
+  name: mongodb-durga-deployment
   labels:
     app: mongodb
 spec:
